@@ -7,7 +7,7 @@ from sqlalchemy import create_engine
 db_user = 'yourusername'
 db_password = 'yourpassword'
 db_host = 'localhost'  # e.g., 'localhost' or '127.0.0.1'
-db_port = '3306'  # e.g., 3306
+db_port = '3300'  # e.g., 3306
 db_name = 'yourdbname'
 
 # Create a MySQL connection using SQLAlchemy
